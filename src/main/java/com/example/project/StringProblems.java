@@ -8,7 +8,8 @@ public class StringProblems{
     // endsLy("y") → false
     // endsLy("oddy") → false
     public boolean endsLy(String x){
-            //implement code here
+        int stringLength = String.length();
+        lastTwo = 
         return false;
     }
 
